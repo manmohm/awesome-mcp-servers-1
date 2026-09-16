@@ -292,6 +292,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 ## Community Servers
 
+- **[Advisors AI](https://advisorsai.ai)** - Advisory AI system and MCP server ([GitHub](https://github.com/manmohm/advisorsai-check))
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
